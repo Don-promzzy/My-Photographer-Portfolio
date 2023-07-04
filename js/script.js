@@ -398,7 +398,7 @@ $(window).on("load", function () {
         gsap.to("#breaker", { display: "block" });
         gsap.to("#breaker", 0, { display: "none", delay: 1.7 });
       });
-      $(".event-close").on("click", function () {
+      $(".fashion-close").on("click", function () {
         gsap.to(".fashion-project", 0.5, { scale: 0.9 });
         gsap.to(".fashion-project", 0, {
           width: "100%",
