@@ -812,10 +812,6 @@ FOR MOBILES
 
 */
 @media all and (max-width: 576px) and (min-width: 375px) {
-  #home {
-    height: 50%;
-  }
-
   .navigation {
     font-size: 14px;
     padding-top: 20px;
