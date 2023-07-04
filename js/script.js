@@ -8,12 +8,12 @@ paceOptions = {
 Pace.on("done", function () {
   $("#preloader")
     .delay(0)
-    .animate({ top: "-120%" }, 3800, $.bez([0.19, 1, 0.22, 1]));
+    .animate({ top: "-120%" }, 100, $.bez([0.19, 1, 0.22, 1]));
 });
 
+// SLIDESHOW
 $(window).on("load", function () {
   $(function () {
-    // SLIDESHOW
     new Swiper("#projects .swiper-container", {
       slidesPerView: "auto",
       speed: 1000,

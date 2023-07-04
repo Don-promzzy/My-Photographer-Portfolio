@@ -542,7 +542,7 @@ a.brivic-link {
   overflow: hidden;
   z-index: 1000;
   position: fixed;
-  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+  transition-timing-function: cubic-bezier(0.1, 1, 0.1, 1);
 }
 
 .preloader-text {
