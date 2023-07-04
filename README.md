@@ -19,7 +19,7 @@ This project showcases my work as a photographer during my previous professional
 - **Bootstrap Integration**: Bootstrap, a popular front-end framework, is employed to ensure consistent styling, responsiveness, and easy layout customization.
 
 ## Usage
-To view the landing page, click [here](https://prom-zzy.github.io/My-startup-landing-page/).
+To view the portfolio website, click [here](https://prom-zzy.github.io/My-Photographer-Portfolio/#).
 
 ## Contributing
 I welcome contributions to enhance the landing page's design and functionality. If you have any ideas or improvements, feel free to open an issue or submit a pull request. and please feel free to browse through the portfolio, immerse yourself in the visual journey, and get in touch for any inquiries or collaboration opportunities.
